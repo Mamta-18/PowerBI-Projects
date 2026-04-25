@@ -273,37 +273,7 @@ This dashboard is valuable for:
 - Open-source data contributors
 - Transportation analytics researchers
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get involved:
-
-1. 🍴 **Fork** the project
-2. 🌿 **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. ✍️ **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. 🔀 **Open** a Pull Request
-
-### Areas for Contribution
-- Additional visualizations (map views, scatter plots)
-- New DAX measures (profitability metrics)
-- Data quality improvements
-- Documentation enhancements
-- Sample datasets from other cities
-- Performance optimizations
-
----
-
-
-## ⭐ Show Your Support
-
-If this project helped you understand ride-sharing analytics or inspired your own dashboard:
-
-- ⭐ **Star this repository**
-- 🔄 **Share with your network**
-- 💬 **Provide feedback via issues**
-- 🤝 **Contribute improvements**
 
 ---
 
@@ -316,11 +286,11 @@ If this project helped you understand ride-sharing analytics or inspired your ow
 
 
 ### Vehicle Performance
-<img width="1279" height="601" alt="image" src="vehicle" />
+<img width="1279" height="601" alt="image" src="vehicle.png" />
 
 ### Rider Analysis
 
-<img width="1274" height="602" alt="image" src="rider.png" />
+<img width="1274" height="602" alt="image" src="Rider.png" />
 
 
 
