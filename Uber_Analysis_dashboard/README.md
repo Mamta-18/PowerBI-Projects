@@ -7,8 +7,7 @@
 
 An interactive Power BI dashboard for analyzing ride-sharing data to derive actionable business insights. Track bookings, revenue, customer behavior, driver performance, and operational efficiency across the Uber ecosystem.
 
-<img width="958" height="539" alt="image" src="https://github.com/user-attachments/assets/45f80eaf-1eee-4ea5-baa6-1531ecd40228" />
-<img width="1272" height="601" alt="image" src="https://github.com/user-attachments/assets/ed746a3a-ea95-4e53-a46a-f98218011d5b" />
+<img width="958" height="539" alt="image" src="home.png" />
 
 
 ---
@@ -262,9 +261,7 @@ This dashboard is valuable for:
 **Adarsh C**  
 *Data Analyst | Power BI Developer | Business Intelligence Enthusiast*
 
-📧 Email: [adarshcrv@gmail.com](mailto:your.adarshcrv@gmail.com)  
-💻 GitHub: [@AdarshC10](https://github.com/AdarshC10)  
-
+📧 Email: [rathoremamta615@gmail.com](mailto:your.rathoremamta615@gmail.com)  
 
 ---
 
@@ -311,18 +308,19 @@ If this project helped you understand ride-sharing analytics or inspired your ow
 ---
 
 ## 📈 Dashboard Screenshots
-
+### Overview Analysis
+<img width="1271" height="599" alt="image" src="overview.png" />
 
 ### Revenue Analysis
-<img width="1271" height="599" alt="image" src="https://github.com/user-attachments/assets/77fc3236-00cc-446e-976d-cd42ebd8a19d" />
+<img width="1271" height="599" alt="image" src="revenue.png" />
 
 
 ### Vehicle Performance
-<img width="1279" height="601" alt="image" src="https://github.com/user-attachments/assets/2f5ac1ad-b054-4b9c-a92d-6c48287eb3b6" />
+<img width="1279" height="601" alt="image" src="vehicle" />
 
 ### Rider Analysis
 
-<img width="1274" height="602" alt="image" src="https://github.com/user-attachments/assets/1e109144-a87b-42d0-9207-94935cb5d0a9" />
+<img width="1274" height="602" alt="image" src="rider.png" />
 
 
 
