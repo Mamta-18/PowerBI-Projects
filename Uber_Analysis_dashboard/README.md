@@ -3,7 +3,6 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
 [![DAX](https://img.shields.io/badge/DAX-Analytics-blue)](https://dax.guide/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An interactive Power BI dashboard for analyzing ride-sharing data to derive actionable business insights. Track bookings, revenue, customer behavior, driver performance, and operational efficiency across the Uber ecosystem.
 
