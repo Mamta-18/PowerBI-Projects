@@ -4,7 +4,7 @@
 This project presents an interactive **Insurance Analysis Dashboard** designed to provide insights into insurance claim patterns, fraud detection, demographics, and geographic trends.  
 It helps stakeholders identify high-risk areas, analyze claim behavior, and support data-driven decisions for fraud prevention and business optimization.
 
-<img width="1060" height="663" alt="image" src="https://github.com/user-attachments/assets/8829920c-a145-4c98-a083-ed0107166493" />
+<img width="1060" height="663" alt="image" src="dashboard.png" />
 
 ---
 
