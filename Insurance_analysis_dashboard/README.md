@@ -1,124 +1,103 @@
+# 🚀 Insurance Analysis Dashboard (Power BI)
 
-# 🛡️ Insurance Analysis Dashboard
-
-This project presents an interactive **Insurance Analysis Dashboard** designed to provide insights into insurance claim patterns, fraud detection, demographics, and geographic trends.  
-It helps stakeholders identify high-risk areas, analyze claim behavior, and support data-driven decisions for fraud prevention and business optimization.
-
-<img width="1060" height="663" alt="image" src="dashboard.png" />
-
----
-
-## 📌 Key Features
-
-### ✅ **1. KPI Summary Cards**
-The dashboard highlights the most important insurance metrics:
-
-- **Total Claims:** 1000  
-- **Total Claim Amount:** 53M  
-- **Total Fraud Cases:** 247  
-- **Fraud Rate:** 0.25 (25%)  
-
-These KPIs provide a quick snapshot of overall business performance and fraud exposure.
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-blue)
+![EDA](https://img.shields.io/badge/Technique-EDA-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mamta-18/PowerBI-Projects)
 
 ---
 
-## 📊 Visualizations Included
-
-### **2. Total Claim Amount by Incident State**
-A bar chart showing states contributing the highest claim amounts:
-- **NY (14.8M)**  
-- **SC (13.5M)**  
-- **WV (10.9M)**  
-- **VA, NC, PA, OH**  
-
-This helps identify high-risk or high-cost states.
+## 📌 Project Overview  
+The **Insurance Analysis Dashboard** is an interactive Power BI project designed to analyze insurance claims, fraud cases, and customer behavior. It provides actionable insights into claim distribution, fraud detection, and risk patterns to support data-driven decision-making.
 
 ---
 
-### **3. Fraud vs Non-Fraud Cases by State**
-A comparative horizontal bar chart showing:
-- Number of **fraud cases**  
-- Number of **legitimate (non-fraud) cases**  
-
-States like **SC** and **NY** show high fraud involvement, indicating priority states for fraud analysis.
-
----
-
-### **4. Geographical Claim Analysis (Map View)**
-A map visualization showing:
-- Claim distribution across the U.S.  
-- Geographic hotspot identification  
-
-Useful for **location-based risk assessment** and underwriting decisions.
+## 🎯 Objectives  
+- Analyze **insurance claims and fraud trends**  
+- Identify **high-risk factors and fraud patterns**  
+- Understand **customer demographics and behavior**  
+- Enable **data-driven decision-making**  
 
 ---
 
-### **5. Total Claims by Gender**
-A donut chart showing:
-- **Male:** 537 claims  
-- **Female:** 463 claims  
+## 📊 Key Insights  
 
-Insight: Gender distribution is nearly balanced.
+- 📌 **Total Claims:** 149  
+- 💰 **Total Claim Amount:** 8M  
+- ⚠️ **Fraud Cases:** 39  
+- 📉 **Fraud Rate:** 26.17%  
 
----
+### 🔍 Insights  
 
-### **6. Total Claims by Month**
-A line chart showing the monthly trend:
-- January: 516  
-- February: 472  
-- March: 12  
-
-This helps identify **seasonal claim patterns** and monthly fluctuations.
-
----
-
-## 🎯 Insights From Analysis
-
-- Fraud rate is relatively high (**25%**), requiring strong fraud detection mechanisms.
-- States such as **NY, SC, and WV** contribute the highest financial losses.
-- Fraud cases are concentrated in certain states, indicating possible fraud networks.
-- Claims are well-distributed across genders.
-- Monthly claims show drastic reduction in March (might be seasonal or incomplete data).
+- Higher claim amounts in **NY and SC**  
+- Fraud more common in **age group 30–45**  
+- **Male customers** slightly higher claims  
+- Most incidents: **Multi-vehicle collisions**  
+- Claims show **declining trend (Jan → Mar)**  
+- **Columbus city** has high claim activity  
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 📈 Dashboard Features  
 
-- **Power BI** for dashboard creation  
-- **DAX** for calculated measures  
-- **Data Cleaning & Preparation** (Power Query)  
-- **Excel/CSV** as data sources  
-
----
-
-## 📁 Files Included
-
-- `Insurance Dashboard.pbix` — Power BI dashboard file  
-- `insurance_data.csv` — Raw dataset (if included)  
-- `README.md` — Project documentation  
+- Interactive **KPIs Dashboard**  
+- **State-wise & City-wise Analysis**  
+- **Gender-based Insights**  
+- **Monthly Trend Analysis**  
+- **Incident Type Breakdown**  
+- Filters & slicers for **dynamic analysis**  
 
 ---
 
-## 🚀 How to Use
+## 🛠️ Tools & Technologies  
 
-1. Open the `.pbix` file in **Power BI Desktop**  
-2. Refresh the data source if required  
-3. Interact with slicers such as:
-   - Incident city  
-   - State  
-   - Gender  
-   - Date  
-4. Explore trends, high-risk zones, and fraud patterns  
+- **Power BI**  
+- **Power Query**  
+- **DAX**  
 
 ---
 
-## 📌 Future Enhancements
+## 📸 Dashboard Preview  
 
-- Add machine learning fraud detection predictions  
-- Include policyholder demographic segmentation  
-- Add drill-through pages for individual fraud case analysis  
-- Integrate time series forecasting  
+### 🏠 Home Page  
+![Home Dashboard](images/home.png)
+
+### 📊 Main Dashboard  
+![Main Dashboard](images/dashboard_1.png)
+![Main Dashboard](images/dash_2.png)
 
 ---
 
+## 📂 Project Structure  
 
+```
+Insurance-Analysis-Dashboard/
+│── Insurance Analysis.pbix
+│── README.md
+│── images/
+    │── home.png
+    │── dashboard.png
+```
+
+---
+
+## 🚀 Skills Demonstrated  
+
+- Data Analysis & Visualization  
+- Exploratory Data Analysis (EDA)  
+- KPI Design  
+- Data Cleaning & Transformation  
+- Dashboard Storytelling  
+
+---
+
+## 🔗 Project Link  
+
+👉 https://github.com/Mamta-18/PowerBI-Projects  
+
+---
+
+## 💡 Conclusion  
+
+This dashboard helps in understanding **fraud patterns, claim distribution, and customer behavior**, enabling better **risk management and business decisions**.
