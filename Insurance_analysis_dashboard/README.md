@@ -3,8 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
 ![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-blue)
 ![EDA](https://img.shields.io/badge/Technique-EDA-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/Mamta-18/PowerBI-Projects)
+
 
 ---
 
@@ -61,7 +60,7 @@ The **Insurance Analysis Dashboard** is an interactive Power BI project designed
 ## 📸 Dashboard Preview  
 
 ### 🏠 Home Page  
-![Home Dashboard](images/home.png)
+![Home Dashboard](images/Home.png)
 
 ### 📊 Main Dashboard  
 ![Main Dashboard](images/dashboard_1.png)
