@@ -137,7 +137,7 @@ The Rider Analysis Dashboard focuses on customer behavior and rider insights:
 
 ## 📷 Rider Dashboard Screenshot
 
-![Rider Dashboard](screenshots/rider.png)
+![Rider Dashboard](screenshots/Rider.png)
 
 ---
 
