@@ -53,7 +53,7 @@ The Home Page acts as the navigation interface for the dashboard. It provides ea
 - Clean dashboard landing page
 - User-friendly UI design
 
-## 📷 Home Page Screenshot
+
 
 ![Home Page](screenshots/home.png)
 
@@ -75,7 +75,7 @@ The Overview Dashboard provides a complete business summary including:
 - Customer and driver rating analysis
 - Operational overview of Uber bookings
 
-## 📷 Overview Dashboard Screenshot
+
 
 ![Overview Dashboard](screenshots/overview.png)
 
@@ -94,7 +94,7 @@ The Revenue Dashboard focuses on financial analysis by evaluating:
 - Revenue contribution by payment method
 - Financial performance trends
 
-## 📷 Revenue Dashboard Screenshot
+
 
 ![Revenue Dashboard](screenshots/revenue.png)
 
@@ -114,7 +114,6 @@ The Vehicle Analysis Dashboard evaluates vehicle operational performance using:
 - Operational efficiency analysis
 - Vehicle booking trends
 
-## 📷 Vehicle Dashboard Screenshot
 
 ![Vehicle Dashboard](screenshots/vehicle.png)
 
@@ -135,7 +134,6 @@ The Rider Analysis Dashboard focuses on customer behavior and rider insights:
 - Cancellation analysis identifies operational issues
 - Customer behavior trends across booking patterns
 
-## 📷 Rider Dashboard Screenshot
 
 ![Rider Dashboard](screenshots/Rider.png)
 
@@ -185,7 +183,11 @@ The dataset contains:
 - Ride distances
 - Booking status
 - Revenue-related information
+  
+---
+# 📌 Conclusion
 
+This project demonstrates how raw Uber ride-booking data can be transformed into meaningful business insights using Power BI dashboards, helping improve operational efficiency, customer analysis, and business decision-making.
 
 
 ---
@@ -194,10 +196,8 @@ The dataset contains:
 
 ## Mamta Rathore
 
----
 
-# 📌 Conclusion
 
-This project demonstrates how raw Uber ride-booking data can be transformed into meaningful business insights using Power BI dashboards, helping improve operational efficiency, customer analysis, and business decision-making.
+
 
 This project demonstrates how raw Uber ride-booking data can be transformed into meaningful business insights using Power BI dashboards, helping improve operational efficiency, customer analysis, and business decision-making.
