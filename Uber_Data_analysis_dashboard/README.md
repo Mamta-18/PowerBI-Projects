@@ -55,7 +55,7 @@ The Home Page acts as the navigation interface for the dashboard. It provides ea
 
 
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home_page.png)
 
 ---
 
