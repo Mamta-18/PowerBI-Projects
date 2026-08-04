@@ -43,15 +43,12 @@ An interactive Power BI dashboard project developed to analyze Uber ride booking
 An interactive Power BI dashboard designed to analyze Myntra's sales performance, customer purchasing behavior, product trends, and overall business performance. The dashboard provides actionable insights to support data-driven business decisions.
 
 ### 🔹 Key Features
-- Sales performance analysis
-- Revenue and profit tracking
-- Category & sub-category performance
-- Brand-wise sales insights
-- Customer purchasing behavior
-- Top-selling products analysis
-- Regional sales performance
-- Discount and order analysis
-- Interactive filters, slicers & KPI cards
+- Monitor overall sales performance
+- Analyze customer purchasing behavior
+- Identify top-performing brands and categories
+- Track order fulfillment performance
+- Understand regional sales distribution
+- Support data-driven decision making
 
 ---
 
