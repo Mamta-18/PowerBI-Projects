@@ -21,7 +21,6 @@ An interactive Power BI dashboard developed to analyze insurance-related data, c
 - Interactive KPI dashboards
 - Data-driven business insights
 
-
 ---
 
 ## 2️⃣ Uber Analysis Dashboard 🚖📊
@@ -37,12 +36,22 @@ An interactive Power BI dashboard project developed to analyze Uber ride booking
 - Cancellation analysis
 - Interactive navigation & slicers
 
-### 🛠 Tools Used
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
+---
 
+## 3️⃣ Myntra Sales Performance Dashboard 🛍️📈
+
+An interactive Power BI dashboard designed to analyze Myntra's sales performance, customer purchasing behavior, product trends, and overall business performance. The dashboard provides actionable insights to support data-driven business decisions.
+
+### 🔹 Key Features
+- Sales performance analysis
+- Revenue and profit tracking
+- Category & sub-category performance
+- Brand-wise sales insights
+- Customer purchasing behavior
+- Top-selling products analysis
+- Regional sales performance
+- Discount and order analysis
+- Interactive filters, slicers & KPI cards
 
 ---
 
@@ -59,9 +68,10 @@ An interactive Power BI dashboard project developed to analyze Uber ride booking
 # 📌 Repository Highlights
 
 ✅ Interactive Dashboards  
-✅ Business Insights & Storytelling  
+✅ Business Insights & Data Storytelling  
 ✅ KPI & Trend Analysis  
-✅ Customer & Operational Analysis  
+✅ Customer & Sales Analytics  
+✅ Operational & Financial Insights  
 ✅ Professional Dashboard Design  
 ✅ Real-world Business Scenarios  
 
@@ -85,4 +95,4 @@ An interactive Power BI dashboard project developed to analyze Uber ride booking
 
 # ⭐ About This Repository
 
-This repository showcases my Power BI dashboard projects created for learning, portfolio building, and business analytics practice. Each project focuses on solving real-world business problems using data visualization and analytical techniques.
+This repository showcases my Power BI dashboard projects created for learning, portfolio building, and business analytics practice. Each project focuses on solving real-world business problems using data visualization, analytical techniques, and interactive dashboards that support better business decision-making.
