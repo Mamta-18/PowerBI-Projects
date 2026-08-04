@@ -9,6 +9,9 @@ The Myntra Sales Performance Dashboard is an interactive Power BI solution desig
 The dashboard enables stakeholders to identify revenue-driving categories, top-performing brands, customer behavior, and regional sales trends using interactive visualizations.
 
 ---
+#Dashboard Page
+![Home Page](home_page.png)
+---
 
 ## 🎯 Business Objectives
 
